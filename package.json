@@ -1,7 +1,6 @@
 {
   "name": "contactbook-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
@@ -15,5 +14,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnngan1209/PTUDW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lnngan1209/PTUDW/issues"
+  },
+  "homepage": "https://github.com/lnngan1209/PTUDW#readme",
+  "description": ""
 }
